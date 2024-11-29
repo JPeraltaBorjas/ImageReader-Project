@@ -1,4 +1,3 @@
-
 # ImageReader Project
 
 ## Descripción del Proyecto
